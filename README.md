@@ -1,5 +1,9 @@
 # FrontEnd Code Editor
 
+<p align="center"><img src="./src/assets/ss1.png" /></p>
+
+Built using `react`
+
 ### Dependencies
 
 #### npm i codemirror@version5
